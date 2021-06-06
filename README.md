@@ -34,7 +34,12 @@ npm run serve
 ```
 The Application runs on **localhost:8081**
 
-## Application Design
+## Application Testing
+
+Run the following command to test the application
+```
+npm run test:unit
+```
 
 ### Views and components
 
