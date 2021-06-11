@@ -17,7 +17,7 @@
 
 <div class="home">
     <div class="navbar navbar-nav sticky-top bg-light">
-        <img src="../assets/jpmorganchase.png" width="" height="60px">
+        <img src="../assets/logo.png" width="" height="60px">
     </div>
     <div class="col-md-12 mt-2 centeralign">
         <table class="table">
